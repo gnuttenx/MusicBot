@@ -14,3 +14,5 @@ remove [position]: Removes song at position
 stop: The same as pause
 
 Looking into: Autosummon to voicechannel when someone writes play-command if not in any channel yet.
+
+Current known problems: Autopause when voicechannel is empty not working.
